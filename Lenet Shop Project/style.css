@@ -1,0 +1,76 @@
+body {
+    background-color: url("https://wallpapertag.com/wallpaper/full/1/4/2/127119-cream-background-1920x1080-for-mobile.jpg");
+            }
+
+            .h2 {
+                font-family:Serif;
+                text-align:center;
+                font-style: italic;
+            }
+            .header {
+    border-style:solid;
+   background-color:white;
+   font-size: 20px;
+font-weight: bold;
+font-style: italic;
+font-family:Serif;
+text-align:center;
+}
+
+a {
+    font-size:54;
+    
+}
+h3 {
+    text-align: center;
+}
+th {
+      text-align: center;
+      padding-right:60px;
+      Padding-left:60px;
+}
+.shoes {
+border-style:solid;
+   background-color:white;
+   font-size: 50px;
+font-weight: bold;
+font-style: italic;
+font-family:Serif;
+text-align:center;
+}
+.forest {
+    background-image: url("https://www.solidbackgrounds.com/images/3840x2160/3840x2160-dark-moss-green-solid-color-background.jpg");
+    text-align:center;
+}
+.grf{
+ border-style:solid;
+   background-color:white;
+   font-size: 20px;
+font-weight: bold;
+font-style: italic;
+font-family:Times;
+text-align:center;   
+}
+p {
+     border-style:solid;
+   background-color:white;
+   font-size: 20px;
+font-weight: bold;
+text-align:left;   
+}
+img {
+    text-align:center;
+}
+.purple {
+    background-color:purple;
+      text-align:center;
+}
+}
+.soccer {
+    background-color:purple;
+      text-align:center;
+}
+.muchy {
+     background-color:#4a5d23;
+      text-align:center;
+}
